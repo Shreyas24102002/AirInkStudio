@@ -100,10 +100,10 @@ def rate_application(rating):
         stars[i].config(bg="gray")
 
 def open_showcase():
-    webbrowser.open("https://leetcode.com/")
+    webbrowser.open("https://airinkstudio.netlify.app/")
 
 def open_chat():
-    webbrowser.open("https://www.geeksforgeeks.org/")
+    webbrowser.open("https://fluffy-hotteok-0d25ae.netlify.app/")
 
 root = tk.Tk()
 root.title("Thank you")
